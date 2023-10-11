@@ -39,8 +39,6 @@ This site was created by Sandra Calzada. You can reach her on [Twitter](https://
 
  ## My Website
  
- ```markdown
-[Live demo of my website](https://sandravcalzada.com/)
-```
-
+[ sandravcalzada.com
+](https://sandravcalzada.com/)https://sandravcalzada.com/
 

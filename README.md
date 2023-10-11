@@ -1,4 +1,4 @@
-# Sandra Calzada's About me Website
+# Sandra Calzada's About Me  & CV Website
 
 ![image](https://github.com/sndr157/AboutMe/assets/127830026/fc4d52ac-58dd-4012-b5d4-96ca01642d22)
 
